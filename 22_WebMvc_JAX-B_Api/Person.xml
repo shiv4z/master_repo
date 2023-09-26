@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<person>
+	<address>
+		<city>Varanasi</city>
+		<country>India</country>
+		<state>UP</state>
+	</address>
+	<age>22</age>
+	<Phone>121312131</Phone>
+	<name>Shiv</name>
+	<pid>11</pid>
+</person>
