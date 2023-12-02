@@ -1,0 +1,14 @@
+shiv:
+  message:
+    greet: Namaste India.
+    welcome: Welcome to the Spring Boot & Microservices.
+    wish: Good night.
+  
+  
+server:
+  port: 8090
+  
+  
+spring:
+  application:
+    name: shiv_app
